@@ -1,4 +1,4 @@
-# Cadastro de Hábitos
+# Habits - WEB
 ### Aplicação de cadastro de hábitos
 
 <p align="center">
