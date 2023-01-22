@@ -21,9 +21,3 @@ Tecnologias utilizadas neste projeto:
 - CSS & Flexbox
 - Radix Library
 - Figma
-
-## 💻 Projeto
-
-Gerencie os seus hábitos de forma organizada.
-
-- [Visite o projeto online](https://alissonmoraesdev.github.io/habitsmobile)
